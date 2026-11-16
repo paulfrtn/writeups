@@ -30,7 +30,7 @@ show how you think, not just the final solution.]
 
 ---
 ## Beyond the solution 
-[Optional. Other valid paths: a different tool, another technique, a shorter payload. What each trades off compared to the chosen solution.]
+[Optional. Another way to solve it, or a deeper look at something that didn’t work at first. What it teaches or trades off compared to the chosen solution.]
 
 ---
 ## Takeaways
