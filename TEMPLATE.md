@@ -5,27 +5,27 @@ difficulty:
 date:
 tags: []
 ---
-# [Titre du challenge]
-
-**Plateforme :** · **Catégorie :** · **Difficulté :**
+# [Challenge name]
 
 ---
+## Context
+[The setup in 2-3 lines: what we're given, what we need to obtain.]
 
-## Contexte
-[Le setup en 2-3 lignes : ce qu'on nous donne, ce qu'on doit obtenir.]
+## Goal
+[What must be achieved, stated precisely.]
 
-## Objectif
-[Ce qu'il faut accomplir, formulé précisément.]
-
-## Démarche
-[Le cheminement, impasses comprises. C'est le cœur du write-up :
-on montre comment on raisonne, pas juste la solution finale.]
+## Walkthrough
+[The reasoning, dead ends included. This is the core of the write-up:
+show how you think, not just the final solution.]
 
 ## Solution
-[Le code / exploit / payload final, commenté.]
+[The final code / exploit / payload, commented.]
 
-## Résultat
-[Le flag (ou masqué), la preuve que ça marche.]
+## Result
+[The flag (or redacted), proof that it works.]
 
-## Ce que j'en retiens
-[1-3 points clés : la notion comprise, le piège évité, l'outil découvert.]
+## Alternatives 
+[Optional. Other valid paths: a different tool, another technique, a shorter payload. What each trades off compared to the chosen solution.]
+
+## Takeaways
+[1-3 key points: the concept understood, the pitfall avoided, the tool discovered.]
