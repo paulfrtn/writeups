@@ -3,10 +3,6 @@ platform: htb
 category: pwn
 difficulty: very easy
 date: 2026-11-15
-tags:
-  - shellcoding
-  - pwn
-  - exec
 ---
 # Assembly training exercise 
 
@@ -103,7 +99,7 @@ The resulting shellcode is : `4831c0b03b4831d25248bf2f62696e2f636174574889e75248
 With the shellcode in our hands, we can inject it into the remote server and find the flag hidden in `/flag.txt`, which is: 
 - `HTB{r3m073_...}`
 ---
-## Alternatives 
+## Beyond the solution 
 Another option was to generate a shellcode using either shellcraft or 
 msfvenom. 
 
