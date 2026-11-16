@@ -126,7 +126,8 @@ but it is actually stored like this:
 71 e6 bb 48 50 c0 31 48
 ```
 
-The solution here is to swap the 8 bytes of each blocks inside the loop. So here we have the new loop:
+The solution here is to reverse the byte order of each blocks inside the loop. 
+So here we have the new loop, using the `bswap` instruction:
 ```asm
 decode_loop:
 	mov r9, [rsp + r8]
